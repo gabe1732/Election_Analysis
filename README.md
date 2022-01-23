@@ -1,7 +1,7 @@
 # Election_Analysis
 
-## Project Overview
-A colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election. 
+## Overview of Election Audit
+A colorado Board of Elections wanted an audit and summary or thier recent elections 
 
 1. Calculate the total number of votes cast. 
 2. Get a complete list of candidates who received votes.
@@ -26,7 +26,8 @@ The analysis of the election show that:
      - Raymon Anthony Doane: 3.1% (11,606)
 - The winner of the elction was:
     - Diana DeGette
+- The county with the largest trunout was:
+    - Denver 306,055
 
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+This script can be used for any election data that provied a vote count, county voted in, and candidate voted for in 3 different cloumns. You can modify the name of the file and the name of the out put file to be able to load new files with the same data format.  
